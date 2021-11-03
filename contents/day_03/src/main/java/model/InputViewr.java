@@ -1,4 +1,12 @@
 package main.java.model;
 
-public class InputViewr implements Viewer{
+public enum InputViewr implements Viewer{
+    INSTANCE;
+
+    InputViewr() {}
+
+    void input(){
+
+    }
+
 }
