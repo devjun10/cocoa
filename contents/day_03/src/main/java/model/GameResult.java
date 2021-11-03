@@ -16,5 +16,4 @@ public class GameResult {
     public List<Member> getMembers(){
         return this.members;
     }
-
 }

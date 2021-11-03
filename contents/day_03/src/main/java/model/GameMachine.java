@@ -1,41 +1,42 @@
 package main.java.model;
 
 
-import java.util.Collections;
 import java.util.List;
 
 public class GameMachine {
     static StringBuilder sb = new StringBuilder();
-    public void play() {
-        int count=10;
-        while(count-->0){
-            ask();
-            int number = input();
-            shuffleMembers();
-            GameResult gameResult = GameResult.of(selectMembers(number));
+    public void play() throws Exception {
+        int cc=10;
+        while(cc-->0){
+            askGameContinueOrNot();
+            int count = input();
+            List<Member> shuffledMembers = getShuffledMembers(count);
+            GameResult gameResult = GameResult.of(shuffledMembers);
             print(gameResult);
-            count--;
+            cc--;
         }
     }
 
-    public int input(){
-//        InputViewr.INSTANCE;
-        return 5;
+    /**
+     * 클래스 멤버들의 데이를 초기화
+     * */
+    static {
+        Init init = new Init();
     }
 
-    public void shuffleMembers(){
-        Collections.shuffle(Members.list);
+    public int input() throws Exception {
+        return InputViewr.INSTANCE.input();
     }
 
-    public List<Member> selectMembers(int number){
-        return Members.list.subList(0, number);
+    public List<Member> getShuffledMembers(int count){
+        return Members.of().getShuffledMembers(count);
     }
 
     public void print(GameResult result){
         OutputViewr.INSTANCE.print(result);
     }
 
-    public void ask(){
+    public void askGameContinueOrNot(){
         OutputViewr.INSTANCE.ask(sb);
     }
 }
