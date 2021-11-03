@@ -15,9 +15,13 @@
       <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/runConfigurations.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/contents/day_03/day_03.iml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/vcs.xml" afterDir="false" />
+>>>>>>> 6b3b4b7dbcc219b9e37657ed9153f3742be9d208
       <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/cocoa2021-java-week1-squad1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/misc.xml" afterDir="false" />
@@ -331,13 +335,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/contents/day_03" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contents/images" />
+>>>>>>> 6b3b4b7dbcc219b9e37657ed9153f3742be9d208
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/contents/day_03" />
+=======
+      <recent name="$PROJECT_DIR$/contents/images" />
+>>>>>>> 6b3b4b7dbcc219b9e37657ed9153f3742be9d208
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/contents/images" />
@@ -354,7 +366,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635744511199</updated>
       <workItem from="1635744515024" duration="5811000" />
+<<<<<<< HEAD
       <workItem from="1635944133401" duration="449000" />
+=======
+      <workItem from="1635848398360" duration="754000" />
+      <workItem from="1635865089187" duration="55000" />
+      <workItem from="1635867672482" duration="2280000" />
+      <workItem from="1635902042604" duration="100000" />
+>>>>>>> 6b3b4b7dbcc219b9e37657ed9153f3742be9d208
     </task>
     <servers />
   </component>
