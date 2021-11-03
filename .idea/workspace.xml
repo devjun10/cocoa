@@ -2,7 +2,230 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="268378c2-218d-446e-9b8f-2675451dfc52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contents/images/codesquad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/main/java/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/main/java/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/day_03/day_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/cocoa2021-java-week1-squad1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/question/day01/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/question/day02/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Common/cocoa2021-java-week1-squad1/노리/코드리뷰.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/ApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/config/WebServerCustomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/MyHandlerExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/advice/ExceptionControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/api/ApiExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/api/ApiExceptionV2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/api/ApiExceptionV3Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/exception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/exception/ErrorPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/exception/ErrorResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/exception/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/controller/exception/UserHandlerExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/java/com/example/api/web/member/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/resources/templates/error-page/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/resources/templates/error-page/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/resources/templates/error/4xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/main/resources/templates/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api/src/test/java/com/example/api/ApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/src/main/java/com/example/api_servlet/ApiServletApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Api_Servlet/src/test/java/com/example/api_servlet/ApiServletApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/ServletApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/config/WebServerCustomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/MyHandlerExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/controller/exception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/controller/exception/ErrorPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/controller/exception/ErrorResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/controller/exception/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/controller/exception/UserHandlerExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/java/com/example/servlet/web/member/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/templates/error-page/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/templates/error-page/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/templates/error/4xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/main/resources/templates/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/Servlet/src/test/java/com/example/servlet/ServletApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/class02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/class02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/class02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/class02/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/class02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Exception/class02/class02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/FilterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/domain/item/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/domain/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/domain/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/filter/LogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/items/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/items/ItemSaveForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/items/ItemUpdateForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/login/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/login/controller/SessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/member/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/member/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/member/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/member/dto/SignupRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/java/com/example/filter/web/member/dto/SignupResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/static/css/._bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/css/._bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/._addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/._editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/._item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/._items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/form/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/items/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/items/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/items/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/items/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/members/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/main/resources/templates/members/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Filter/src/test/java/com/example/filter/FilterApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/InterceptorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/domain/item/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/domain/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/domain/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/filter/LogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/items/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/items/ItemSaveForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/items/ItemUpdateForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/login/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/login/controller/SessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/member/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/member/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/member/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/member/dto/SignupRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/java/com/example/interceptor/web/member/dto/SignupResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/css/._bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/._addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/._editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/._item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/._items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/form/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/items/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/items/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/items/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/items/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/members/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/main/resources/members/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Login/Interceptor/src/test/java/com/example/interceptor/InterceptorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/TestDataInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/ThymeleafApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/domain/item/DeliveryCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/domain/item/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/domain/item/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/domain/item/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/domain/item/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/java/com/example/thymeleaf/web/form/FormItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/templates/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/templates/form/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/templates/form/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/templates/form/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/copy/templates/form/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/templates/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/templates/form/addForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/templates/form/editForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/templates/form/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/main/resources/templates/form/items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Thymeleaf/src/test/java/com/example/thymeleaf/ThymeleafApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codesquad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS/Basic/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS/Basic/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS/Basic/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
@@ -27,9 +250,49 @@
       <change beforePath="$PROJECT_DIR$/../../JS/Basic/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS/Basic/gradlew" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS/Basic/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Cookie/src/main/java/com/example/cookie/CookieApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/SessionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/domain/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/login/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/login/controller/SessionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/member/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/member/dto/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/member/dto/LoginResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/member/dto/SignupRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/java/com/example/session/web/member/dto/SignupResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/css/._bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/._addForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/._editForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/._item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/._items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/addForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/editForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/main/resources/static/form/items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/Spring_Basic/Session/src/test/java/com/example/session/SessionApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring/Spring_MVC1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/Spring_MVC1/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring/Spring_MVC1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/Spring_MVC1/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring/Spring_MVC1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/Spring_MVC1/.idea/gradle.xml" afterDir="false" />
@@ -46,6 +309,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -65,11 +331,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contents/day_03" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contents/day_03" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/contents/images" />
       <recent name="$PROJECT_DIR$/contents/day_01" />
@@ -85,6 +354,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635744511199</updated>
       <workItem from="1635744515024" duration="5811000" />
+      <workItem from="1635944133401" duration="449000" />
     </task>
     <servers />
   </component>
@@ -101,5 +371,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
