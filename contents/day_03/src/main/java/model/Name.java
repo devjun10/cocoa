@@ -1,9 +1,6 @@
 package main.java.model;
 
-import java.util.List;
-import java.util.Map;
 import java.util.Objects;
-import java.util.concurrent.ConcurrentHashMap;
 
 public class Name {
     private final String value;

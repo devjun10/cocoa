@@ -2,7 +2,7 @@ package main.java.model;
 
 import java.util.Objects;
 
-public class Member implements Comparable<Member>{
+public class Member {
     private final Integer id;
     private final Name name;
 
@@ -30,11 +30,6 @@ public class Member implements Comparable<Member>{
     @Override
     public int hashCode() {
         return Objects.hash(id);
-    }
-
-    @Override
-    public int compareTo(Member o) {
-        return Integer.compare(this.id, o.id);
     }
 
     @Override

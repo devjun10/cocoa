@@ -5,8 +5,10 @@ import java.util.*;
 public class Members {
     private static final int MIN_MEMBER_SIZE = 1;
     private static final int MEMBER_SIZE = 34;
-    public static final List<Member> list= new ArrayList<>();
 
+    //
+    public static final List<Member> list= new ArrayList<>();
+    //
     public List<Member> getShuffledMembers(int number){
         validateNumber(number);
         validateSize(list);
