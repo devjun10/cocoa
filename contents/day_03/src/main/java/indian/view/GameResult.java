@@ -1,4 +1,4 @@
-package main.java.indian;
+package main.java.indian.view;
 
 public class GameResult {
     private final String result;

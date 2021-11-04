@@ -1,10 +1,6 @@
 package main.java.indian;
 
-
-import main.java.indian.view.InputConsoleView;
-import main.java.indian.view.InputView;
-import main.java.randomgame.view.OutputConsoleView;
-import main.java.randomgame.view.OutputView;
+import main.java.indian.view.*;
 
 public class Main {
     static InputView inputView = new InputConsoleView();
@@ -17,8 +13,8 @@ public class Main {
         int year = inputView.inputYear();
         int month = inputView.inputMonth();
         int day = inputView.inputDay();
-        PlayerData playerData = new PlayerData(year, month, day);
 
-        player.play(gameMachine, playerData);
+        GameResult message = player.play(gameMachine, PlayerData.of(year, month, day));
+        outputView.printGameResult(message);
     };
 }
