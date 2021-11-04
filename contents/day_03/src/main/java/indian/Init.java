@@ -1,8 +1,19 @@
 package main.java.indian;
 
+import main.java.indian.repo.Day;
+import main.java.indian.repo.Month;
+import main.java.indian.repo.Year;
+
 import java.util.List;
 
 public class Init {
+    private static final int YEAR_START_NUMBER = 0;
+    private static final int YEAR_END_NUMBER = 9;
+    private static final int MONTH_START_NUMBER = 1;
+    private static final int MONTH_END_NUMBER = 12;
+    private static final int DAY_START_NUMBER = 1;
+    private static final int DAY_END_NUMBER = 31;
+
     static List<String> years = List.of("시끄러운, 말 많은", "푸른", "어두운, 적색", "조용한", "웅크린", "백색", "지혜로운", "용감한", "날카로운", "욕심많은");
     static List<String> month = List.of("늑대", "태양", "양", "매", "황소", "불꽃", "나무", "달빛", "말", "돼지", "하늘", "바람");
     static List<String> days = List.of("와(과) 함께 춤을", "의 기상", "은(는) 그림자속에", "", "", "", "의 환생",
@@ -12,13 +23,13 @@ public class Init {
             "은(는) 말이 없다.");
 
     static {
-        for(int i=0; i<10; i++){
+        for(int i=YEAR_START_NUMBER; i<=YEAR_END_NUMBER; i++){
             Year.values.put(i, years.get(i));
         }
-        for(int i=1; i< 13; i++){
+        for(int i=MONTH_START_NUMBER; i<= MONTH_END_NUMBER; i++){
             Month.values.put(i, month.get(i-1));
         }
-        for(int i=1; i<32; i++){
+        for(int i=DAY_START_NUMBER; i<=DAY_END_NUMBER; i++){
             Day.values.put(i, days.get(i-1));
         }
     }

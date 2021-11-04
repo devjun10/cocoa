@@ -3,41 +3,24 @@ package main.java.randomgame;
 
 import main.java.randomgame.model.Member;
 import main.java.randomgame.model.Members;
+import main.java.randomgame.view.GameResult;
 
 import java.util.List;
 
 public class GameMachine {
-    static StringBuilder sb = new StringBuilder();
-    public void play() throws Exception {
-        while(true){
-            askGameContinueOrNot();
-            int count = input();
-            List<Member> shuffledMembers = getShuffledMembers(count);
-            GameResult gameResult = GameResult.of(shuffledMembers);
-            print(gameResult);
-        }
+    public GameResult play(int gameCount) {
+        List<Member> shuffledMembers = getShuffledMembers(gameCount);
+        return GameResult.of(shuffledMembers);
     }
 
     /**
-     * 클래스 멤버들의 데이를 초기화
+     * 클래스 멤버 데이터 초기화
      * */
     static {
         Init init = new Init();
     }
 
-    public int input() throws Exception {
-        return InputViewr.INSTANCE.input();
-    }
-
     public List<Member> getShuffledMembers(int count){
         return Members.of().getShuffledMembers(count);
-    }
-
-    public void print(GameResult gameResult){
-        OutputViewr.INSTANCE.print(gameResult);
-    }
-
-    public void askGameContinueOrNot(){
-        OutputViewr.INSTANCE.ask(sb);
     }
 }

@@ -1,4 +1,4 @@
-package main.java.randomgame;
+package main.java.randomgame.view;
 
 import main.java.randomgame.model.Member;
 
