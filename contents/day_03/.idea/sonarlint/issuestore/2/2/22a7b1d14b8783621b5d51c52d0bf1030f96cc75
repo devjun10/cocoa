@@ -1,0 +1,12 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ë¯¥Â
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(íáº7
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À—ÜÄùÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ğòµ ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(×À½šûÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(äÜù˜
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‚´•¦8ïÒ“ùÎ/
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(âíÃÇ8ğÒ“ùÎ/

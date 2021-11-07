@@ -7,16 +7,25 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class InputConsoleView implements InputView {
-    static Input input = new Input();
     static StringBuilder sb = new StringBuilder();
+    static Input input = new Input();
     static class Input {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer("");
-        public int integer() throws Exception{
-            if(!st.hasMoreElements()) st = new StringTokenizer(br.readLine());
+
+        public int integer() throws Exception {
+            if (!st.hasMoreElements()) st = new StringTokenizer(br.readLine());
             return Integer.parseInt(st.nextToken());
         }
+        public String next() throws Exception{
+            if(!st.hasMoreElements()) st = new StringTokenizer(br.readLine());
+            return st.nextToken();
+        }
     }
+    public static void main(String[] args) throws Exception {
+        String[] s = input.br.readLine().split(" ");
+        System.out.println(s.length);
+        };
 
     @Override
     public void printStartManual() {

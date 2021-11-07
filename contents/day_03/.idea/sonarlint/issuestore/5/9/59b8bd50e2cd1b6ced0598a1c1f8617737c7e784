@@ -1,0 +1,31 @@
+
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(À»È³ıÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(éŞ¶ò
+?
+java:S2140'")Use "java.util.Random.nextInt()" instead.(ˆÎ¢
+D
+java:S2140(")Use "java.util.Random.nextInt()" instead.(á–˜‘øÿÿÿÿ
+M
+java:S18541"7Remove this useless assignment to local variable "lst".(ƒ©ˆş
+<
+java:S14520"&Remove usage of generic wildcard type.(»×¸‡
+>
+java:S14811"(Remove this unused "lst" local variable.(ƒ©ˆş
+?
+java:S21403")Use "java.util.Random.nextInt()" instead.(ˆÎ¢
+D
+java:S21404")Use "java.util.Random.nextInt()" instead.(á–˜‘øÿÿÿÿ
+A
+java:S11689"+Return an empty collection instead of null.(¥¹ï
+7
+java:S1116@"Remove this empty statement.(ôŸìúÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(‘İÈşÿÿÿÿ
+7
+java:S1116V"Remove this empty statement.(ôŸìúÿÿÿÿ
+F
+java:S1068"0Remove this unused "START_NUMBER" private field.(ƒˆ»ü
+D
+java:S1068	".Remove this unused "END_NUMBER" private field.(¾ø˜ô
