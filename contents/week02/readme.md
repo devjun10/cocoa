@@ -14,7 +14,7 @@
 ## Day 07
 
 - [객체지향과 역할과 책임](./day_07/readme.md)
-- [Parameter와 Argument의 차이](contents/day_07/readme.md#매개변수와-인수)
+- [Parameter와 Argument의 차이](./day_07/readme.md#매개변수와-인수)
 - 클래스와 인스턴스의 차이
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 ## Day 09
 
-- [static 메서드와 변수](contents/day_09/readme.md)
+- [static 메서드와 변수](./day_09/readme.md)
 - JVM 클래스 로딩 정리
 
 <br/><br/>

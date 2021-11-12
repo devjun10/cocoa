@@ -16,7 +16,7 @@
 ## Day 02
 JVM과 깃 명령어 학습.
 
-- [JVM 정리](contents/day_02)
+- [JVM 정리](./day_02/jvm.md)
 - 기본적인 깃 명령어 학습
 
 <br/><br/>
@@ -29,8 +29,8 @@ JVM과 깃 명령어 학습.
 
 | 미션      |  링크                        | PR   |
 | :--------| :---------------------------:|:---:|
-| 랜덤 뽑기 | [링크](contents/day_03/src/main/java/randomgame)| [링크]() |  
-| 인디언 이름 짓기| [링크](contents/day_03/src/main/java/indian)|[링크]()| 
+| 랜덤 뽑기 | [링크](https://github.com/devjun10/RandomPick)| [링크](https://github.com/devjun10/RandomPick/pull/1) |  
+| 인디언 이름 짓기| [링크](https://github.com/devjun10/IndianGame)|[링크](https://github.com/devjun10/IndianGame/pull/1)| 
 | 초간단 RPG | [링크](https://github.com/devjun10/Simple-RPG)|[링크]()|
 | 숫자퍼즐 | [링크]() |[링크]()|
 | 2048 | [링크]() |[링크]()|
@@ -40,8 +40,8 @@ JVM과 깃 명령어 학습.
 
 ## Day 04
 
-- [JVM 추가 정리](contents/day_02)
-- [수업 내용 복습(객체, 타입, Call by value)](contents/day_04/readme.md)
+- [JVM 추가 정리](./day_02/jvm.md)
+- [수업 내용 복습(객체, 타입, Call by value)](./day_04/readme.md)
 - [Sys.out을 모든 곳에서 사용할 수 있는지 학습](https://sangwoo0727.github.io/java/JAVA-sysout/)
 - 추천 책(오브젝트)
 

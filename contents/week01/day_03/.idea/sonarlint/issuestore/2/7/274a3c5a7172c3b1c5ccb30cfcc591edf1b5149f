@@ -1,13 +1,0 @@
-
-Z
-java:S1854"8Remove this useless assignment to local variable "init".( Ì¤ãşÿÿÿÿ8óç¶úÎ/
-F
-java:S2440"$Remove this instantiation of "Init".( Ì¤ãşÿÿÿÿ8ôç¶úÎ/
-K
-java:S1481")Remove this unused "init" local variable.( Ì¤ãşÿÿÿÿ8õç¶úÎ/
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çí¡8ÿç¶úÎ/
-l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ü”Y8ÿç¶úÎ/
-{
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "next_x".(Çí¡8è¶úÎ/
-z
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "next_y".(‘Ü”Y8è¶úÎ/

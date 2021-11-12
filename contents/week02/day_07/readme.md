@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-![ex_screenshot](../images/class.png)
+![ex_screenshot](../../images/class.png)
 
 <br/><br/><br/>
 
@@ -15,7 +15,7 @@
 통해서만 서로 소통하고 협력하며 이를 통해 각자의 역할과 책임을 가질 수 있기 때문이다. 아래의 경우에도 Hero 클래스가 자기 스스로 움직이게 되는데, 이를 통해 다른 객체에게 수동적으로 의존하지 않아도 된다.
 
 <br/><br/>
-![ex_screenshot](../images/move.png)
+![ex_screenshot](../../images/move.png)
 
 <br/><br/>
 

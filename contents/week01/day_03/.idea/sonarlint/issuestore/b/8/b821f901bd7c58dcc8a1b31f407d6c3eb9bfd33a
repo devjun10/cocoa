@@ -1,13 +1,0 @@
-
-\
-java:S1854"?Remove this useless assignment to local variable "gameMachine".(Ô‘â÷8™ç¶úÎ/
-M
-java:S1481"0Remove this unused "gameMachine" local variable.(Ô‘â÷8ç¶úÎ/
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ç¶úÎ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ŒêÌÅ8ç¶úÎ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ÿç¶úÎ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‡‹¿Æ8Ÿç¶úÎ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8 ç¶úÎ/
->
-java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8 ç¶úÎ/
