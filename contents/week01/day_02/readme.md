@@ -2,14 +2,14 @@
 자바 바이트코드(.class)를 OS에 특화된 코드로 변환하여 실행하며, 바이트 코드를 실행하는 표준(JVM자체는 표준)이자 구현체 (특정 벤더가 구현한 JVM). 즉, JVM 바이트코드를 어떻게 실행시켜야하는지에 대한 스펙이다. JVM언어는 JVM기반으로 동작하는 프로그래밍 언어를 가리키며 클로저, 그루비, JRuby, Jython, Kotlin, Scala 등이 있다.
 <br/>
 
-![ex_screenshot](../images/jvm01.png)
+![ex_screenshot](../../images/jvm01.png)
 
 <br/><br/><br/>
 
 우리가 일반적으로 보고 있는 코드들은 원래 바이트코드로 이루어져 있는데, 자바 P를 통해 사람이 읽을 수 있는 코드로 컴파일 된다. JVM은 자바 바이트코드를 읽어들여 메모리에 적절하게 배치하는 것이다.
 <br/>
 
-![ex_screenshot](../images/jvm02.png)
+![ex_screenshot](../../images/jvm02.png)
 
 <br/><br/><br/>
 
@@ -17,7 +17,7 @@
 JVM은 크게 클래스 로더, 메모리, 실행 엔진으로 나눌 수 있는데 클래스 로더는 실제 바이트 코드를 읽어와 레퍼런스를 참조하고 초기화를 시킨다. 예를들어 static 블록을 통해 값을 할당하고 초기화하며, 이를 통해 다른 클래스에서도 해당 클래스 이름으로 이를 참조할 수 있게 한다.
 <br/>
 
-![ex_screenshot](../images/jvm03.png)
+![ex_screenshot](../../images/jvm03.png)
 
 <br/><br/><br/>
 
@@ -35,7 +35,7 @@ JVM은 크게 클래스 로더, 메모리, 실행 엔진으로 나눌 수 있는
 
 대표적으로 자바의 currentThread( )가 네이티브 메서드를 호출한다. JNI는 네이티브 메서드를 호출할 수 있도록 해준다. JNI를 통해 라이브러리를 사용해야 한다. *자바 네이티브 메서드를 호출해주는 인터페이스.
 
-![ex_screenshot](../images/jvm04.png)
+![ex_screenshot](../../images/jvm04.png)
 
 <br/><br/><br/>
 
