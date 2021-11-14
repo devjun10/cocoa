@@ -4,11 +4,10 @@
 [코드스쿼드 코코아 과정](https://codesquad.kr/page/masters/cocoa.html) 을 들으며 학습한 내용을 기록하기 위한 저장소입니다.
 
 &nbsp;&nbsp;&nbsp;&nbsp;  - [학습내용 정리](#학습내용-정리)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;  - 회고([1주차](https://frost-armadillo-835.notion.site/1-f7b4e5c543ba4de08dea4d4db8b4a435), [2주차](https://frost-armadillo-835.notion.site/2-8b505e1aee6f451ea5734c6131586d0d) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  - 회고([1주차](https://frost-armadillo-835.notion.site/1-f7b4e5c543ba4de08dea4d4db8b4a435), [2주차](https://frost-armadillo-835.notion.site/2-8b505e1aee6f451ea5734c6131586d0d)) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  - [알고리즘 문제풀이](https://github.com/devjun10/Algorithm/blob/master/src/main/resources/contents/programmers.md)
 
 
-q
 <br/><br/>
 ![ex_screenshot](./contents/images/codesquad.png)
 <br/><br/><br/>

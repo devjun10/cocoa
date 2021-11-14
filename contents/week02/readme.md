@@ -34,5 +34,5 @@
 
 ## Day 10
 
-- [프로그래머스 문제풀이](https://github.com/devjun10/Algorithm/tree/master/src/main/java/programmers/lv1)
+- [프로그래머스 문제풀이](https://github.com/devjun10/Algorithm/blob/master/src/main/resources/contents/programmers.md)
 - 예외처리 스터디
