@@ -1,0 +1,15 @@
+
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¹äËúÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(½ÈÎŒıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë’ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½ŠíĞ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰âÍ¶
+
+java:S1130""lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Á¼ÃĞÒ/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Õ¥ì£şÿÿÿÿ8øƒÄĞÒ/
+G
+java:S1128"*Remove this unused import 'java.nio.file'.(æĞİ¿8‡–ÅĞÒ/
+a
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Üè‚

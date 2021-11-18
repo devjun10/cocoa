@@ -1,0 +1,15 @@
+
+T
+java:S1854	"9Remove this useless assignment to local variable "first".(Ö€ûáúÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "path".(ğÉÄõÿÿÿÿÿ
+D
+java:S1481")Remove this unused "path" local variable.(ğÉÄõÿÿÿÿÿ
+E
+java:S1481	"*Remove this unused "first" local variable.(Ö€ûáúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ø––
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(ÏÒÉ¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùî¢›
+V	java:S125"<This block of commented-out lines of code should be removed.(È ‚­ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª¡Â¥

@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é“³½8Ì‰±ÏÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¬÷İøÿÿÿÿ8‚´³ÏÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–½ˆŒüÿÿÿÿ8‚´³ÏÒ/
+|
+java:S1488
+"aImmediately return this expression instead of assigning it to the temporary variable "fileArray".(Š¹§ıÿÿÿÿ

@@ -1,0 +1,13 @@
+
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¹äËŽúÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(½ÈÎŒýÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§‰Û¿
+Z
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(ï­£Ä
+M	java:S106"9Replace this use of System.out or System.err by a logger.(èˆÃ
+M
+java:S1144#"2Remove this unused private "existRealPath" method.(ÄÒõãþÿÿÿÿ
