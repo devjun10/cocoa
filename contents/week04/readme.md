@@ -1,5 +1,4 @@
-## 4주 차
-
+# ✨ 4주 차
 
 <br/><br/>
 
@@ -27,7 +26,7 @@
 ## Day 18
 
 - [SimpleRpg 리팩토링](https://github.com/devjun10/Simple-RPG)
-- [예외처리 학습]()
+- [예외처리 학습](https://github.com/devjun10/CodeSquad_Cocoa_Study/tree/main/content/exception)
 - [AWT 기본 기능 학습](https://github.com/devjun10/DrawingBoard)
 
   <br/><br/>
@@ -40,5 +39,5 @@
 
 ## Day 20
 
-- [알고리즘 문제풀이]()
+- [알고리즘 문제풀이](https://github.com/devjun10/Algorithm/blob/master/src/main/resources/contents/leetcode.md)
 
