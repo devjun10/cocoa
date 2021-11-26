@@ -11,11 +11,19 @@
 
 <br/><br/>
 
+### 📘 학습목표
+
+- 프로세스와 쓰레드의 차이점 학습
+- 파일/경로 학습
+- 커널과 쉘의 차이점 학습
+
+<br/><br/>
+
 ## Day 11
 
 <br/>
 
-| 미션    |  링크             |         PR         |
+| 미션    |        링크       |         PR         |
 | :-----:|:---------------:|:------------------:|
 |   셸    |  x              |                    |
 | 한글 시계 | [링크](https://github.com/devjun10/Hangle_Clock) |[링크](https://github.com/devjun10/Hangle_Clock/pull/1)|
@@ -51,14 +59,17 @@
 
 - [캘린더 구현](https://github.com/devjun10/Hangle_Clock)
 - [Thread 스터디](https://github.com/devjun10/CodeSquad_Study)
+
   <br/><br/>
 
 ## Day 15
 
 - 캘린더 구현
-  <br/><br/>
+
+<br/><br/>
 
 ## Day 16
 
 - [알고리즘 문제풀이](https://github.com/devjun10/Algorithm/blob/master/src/main/resources/contents/hackerrank.md)
+
   <br/><br/>
