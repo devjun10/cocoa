@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-## Day 11
+## Day 11.
 
 <br/>
 
@@ -39,14 +39,14 @@
 
 <br/><br/>
 
-## Day 12
+## Day 12.
 
 - Map(HashMap, HashTable, ConcurrentHashMap)
 - [파일 IO]()
 
 <br/><br/>
 
-## Day 13
+## Day 13.
 
 - [Thread 정리](https://github.com/devjun10/CodeSquad_Cocoa_Study/tree/main/content/thread/jun)
 - 파일IO Exception
@@ -55,20 +55,20 @@
 
 <br/><br/>
 
-## Day 14
+## Day 14.
 
 - [캘린더 구현](https://github.com/devjun10/Hangle_Clock)
 - [Thread 스터디](https://github.com/devjun10/CodeSquad_Study)
 
   <br/><br/>
 
-## Day 15
+## Day 15.
 
 - 캘린더 구현
 
 <br/><br/>
 
-## Day 16
+## Day 16.
 
 - [알고리즘 문제풀이](https://github.com/devjun10/Algorithm/blob/master/src/main/resources/contents/hackerrank.md)
 
